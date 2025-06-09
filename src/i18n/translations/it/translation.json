@@ -28,10 +28,13 @@
     },
     "seeAllWallets": "",
     "navbarMenu": {
+      "learn": "Impara",
+      "scan": "Scansiona",
       "brandAssets": "",
       "theme": "Tema",
       "developers": "Sviluppatori",
       "support": "Assistenza",
+      "resources": "Risorse",
       "profile": "",
       "fest": ""
     },
@@ -51,6 +54,9 @@
       "numberOfChains": ""
     },
     "themes": {
+      "dark": "Scuro",
+      "light": "Chiaro",
+      "system": "Sistema",
       "switchToLight": "Passa al tema chiaro",
       "switchToDark": "Passa al tema scuro",
       "switchToSystem": "",

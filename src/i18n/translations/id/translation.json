@@ -28,10 +28,13 @@
     },
     "seeAllWallets": "Lihat semua dompet",
     "navbarMenu": {
+      "learn": "Pelajari",
+      "scan": "Pindai",
       "brandAssets": "Merek Aset",
       "theme": "Tema",
       "developers": "Para Pengembang",
       "support": "Bantuan",
+      "resources": "Sumber Daya",
       "profile": "Profil Jumper",
       "fest": ""
     },
@@ -51,6 +54,9 @@
       "numberOfChains": ""
     },
     "themes": {
+      "dark": "Gelap",
+      "light": "Terang",
+      "system": "Sistem",
       "switchToLight": "Beralih ke Tema Terang",
       "switchToDark": "Beralih ke Tema Gelap",
       "switchToSystem": "Beralih ke Sistem",
